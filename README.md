@@ -39,7 +39,7 @@ I love clean code, simple architecture, and turning ideas into working products.
 ## 📬 Contact Me
 
 - 📧 Email: **shoh5288899@gmail.com**
-- 💬 Telegram: [@shohruh](https://t.me/shox_8899)
+- 💬 Telegram: [@shohruh_dev](https://t.me/shox_8899)
 - 🌐 Portfolio: *(Coming soon)*
 
 ---
