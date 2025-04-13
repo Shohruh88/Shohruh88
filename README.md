@@ -30,8 +30,8 @@ I love clean code, simple architecture, and turning ideas into working products.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musobekmadrimov&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musobekmadrimov&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShohruhZaripov&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohruh88&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
